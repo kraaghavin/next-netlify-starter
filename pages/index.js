@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>andamanEARTH</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/Google_Earth_icon.svg-2" />
       </Head>
 
       <main>
