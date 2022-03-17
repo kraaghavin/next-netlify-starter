@@ -13,14 +13,6 @@ export default function Home() {
       <main>
     
         <Header title="Re-exploring the Andamans" />
-        <p className="description"><div id="myCarousel" class="carousel container slide">
-<div class="carousel-inner">
-        <div class="active item one"></div>
-        <div class="item two"></div>
-        <div class="item three"></div>
-</div>
-</div>
-        </p>
       </main>
 
       <Footer />
